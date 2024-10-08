@@ -1,9 +1,9 @@
 name: lxp-bridge
 description: "lxp-bridge addon"
-version: 0.11.0-2
+version: 0.13
 stage: stable
 slug: lxp-bridge
-codenotary: oleksandr.pidlisnyi@gmail.com
+codenotary: chautruongthinh@gmail.com
 init: false
 arch:
   - aarch64

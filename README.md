@@ -5,7 +5,7 @@ lxp-bridge Home Assistant addon
 ## Installation
 1. If you don't have an MQTT broker yet; in Home Assistant go to **[Settings → Add-ons → Add-on store](https://my.home-assistant.io/redirect/supervisor_store/)** and install the **[Mosquitto broker](https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_mosquitto)** addon.
 1. Go back to the **Add-on store**, click **⋮ → Repositories**, fill in</br>  `https://github.com/unreadablename/hassio-lxp-bridge/` and click **Add → Close** or click the **Add repository** button below, click **Add → Close** (You might need to enter the **internal IP address** of your Home Assistant instance first).
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Funreadablename%2Fhassio-lxp-bridge)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fchautruongthinh%2Fhassio-lxp-bridge)
 3. The repository includes two add-ons:
     - **lxp-bridge** is the stable release that tracks the released versions of **lxp-bridge**. (**recommended for most users**)
     - **lxp-bridge-dev** tracks the `dev` branch of **lxp-bridge** such that you can install the dev version if there are features or fixes in the lxp-bridge dev branch that are not yet released.

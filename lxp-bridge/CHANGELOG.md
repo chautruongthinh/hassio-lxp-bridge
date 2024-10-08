@@ -1,3 +1,6 @@
+## 0.13.0
+- Updated lxp-bridge to version [`0.13.0`](https://github.com/celsworth/lxp-bridge/releases/tag/v0.13.0)
+
 ## 0.10.0-1
 - Add installation documentation
 - Switch debian base images to bullseye
